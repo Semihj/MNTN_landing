@@ -1,5 +1,5 @@
 import { MdOutlineAccountCircle } from "react-icons/md";
-import logo from "../../public/logo.svg"
+import logo from "../../public/Logo.svg"
 type Props = {}
 
 
